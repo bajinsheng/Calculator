@@ -1,0 +1,64 @@
+E:\WP源码\WP源码\Calculator\Calculator\bin\Debug\App.xbf
+E:\WP源码\WP源码\Calculator\Calculator\bin\Debug\Calculator.xr.xml
+E:\WP源码\WP源码\Calculator\Calculator\bin\Debug\Calculator.exe
+E:\WP源码\WP源码\Calculator\Calculator\bin\Debug\Calculator.pdb
+E:\WP源码\WP源码\Calculator\Calculator\bin\Debug\resources.pri
+E:\WP源码\WP源码\Calculator\Calculator\bin\Debug\AppxManifest.xml
+E:\WP源码\WP源码\Calculator\Calculator\bin\Debug\Calculator.build.appxrecipe
+E:\WP源码\WP源码\Calculator\Calculator\obj\Debug\App.g.i.cs
+E:\WP源码\WP源码\Calculator\Calculator\obj\Debug\App.g.cs
+E:\WP源码\WP源码\Calculator\Calculator\obj\Debug\XamlTypeInfo.g.cs
+E:\WP源码\WP源码\Calculator\Calculator\obj\Debug\App.xaml
+E:\WP源码\WP源码\Calculator\Calculator\obj\Debug\App.xbf
+E:\WP源码\WP源码\Calculator\Calculator\obj\Debug\XamlSaveStateFile.xml
+E:\WP源码\WP源码\Calculator\Calculator\obj\Debug\Calculator.exe
+E:\WP源码\WP源码\Calculator\Calculator\obj\Debug\Calculator.pdb
+E:\WP源码\WP源码\Calculator\Calculator\obj\Debug\priconfig.xml
+E:\WP源码\WP源码\Calculator\Calculator\obj\Debug\priconfig.xml.intermediate
+E:\WP源码\WP源码\Calculator\Calculator\obj\Debug\layout.resfiles
+E:\WP源码\WP源码\Calculator\Calculator\obj\Debug\layout.resfiles.intermediate
+E:\WP源码\WP源码\Calculator\Calculator\obj\Debug\resources.resfiles
+E:\WP源码\WP源码\Calculator\Calculator\obj\Debug\resources.resfiles.intermediate
+E:\WP源码\WP源码\Calculator\Calculator\obj\Debug\pri.resfiles
+E:\WP源码\WP源码\Calculator\Calculator\obj\Debug\pri.resfiles.intermediate
+E:\WP源码\WP源码\Calculator\Calculator\obj\Debug\qualifiers.txt
+E:\WP源码\WP源码\Calculator\Calculator\obj\Debug\qualifiers.txt.intermediate
+E:\WP源码\WP源码\Calculator\Calculator\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+E:\WP源码\WP源码\Calculator\Calculator\obj\Debug\ProjectArchitectures.txt
+E:\WP源码\WP源码\Calculator\Calculator\obj\Debug\View\MainPage.g.i.cs
+E:\WP源码\WP源码\Calculator\Calculator\obj\Debug\View\MainPage.g.cs
+E:\WP源码\WP源码\Calculator\Calculator\bin\Debug\View\MainPage.xbf
+E:\WP源码\WP源码\Calculator\Calculator\obj\Debug\View\MainPage.xaml
+E:\WP源码\WP源码\Calculator\Calculator\obj\Debug\View\MainPage.xbf
+F:\bajinsheng\Documents\Visual Studio 2013\Projects\Calculator\Calculator\bin\Debug\App.xbf
+F:\bajinsheng\Documents\Visual Studio 2013\Projects\Calculator\Calculator\bin\Debug\View\MainPage.xbf
+F:\bajinsheng\Documents\Visual Studio 2013\Projects\Calculator\Calculator\bin\Debug\Calculator.xr.xml
+F:\bajinsheng\Documents\Visual Studio 2013\Projects\Calculator\Calculator\bin\Debug\Calculator.exe
+F:\bajinsheng\Documents\Visual Studio 2013\Projects\Calculator\Calculator\bin\Debug\Calculator.pdb
+F:\bajinsheng\Documents\Visual Studio 2013\Projects\Calculator\Calculator\bin\Debug\resources.pri
+F:\bajinsheng\Documents\Visual Studio 2013\Projects\Calculator\Calculator\bin\Debug\AppxManifest.xml
+F:\bajinsheng\Documents\Visual Studio 2013\Projects\Calculator\Calculator\bin\Debug\Calculator.build.appxrecipe
+F:\bajinsheng\Documents\Visual Studio 2013\Projects\Calculator\Calculator\obj\Debug\App.g.i.cs
+F:\bajinsheng\Documents\Visual Studio 2013\Projects\Calculator\Calculator\obj\Debug\App.g.cs
+F:\bajinsheng\Documents\Visual Studio 2013\Projects\Calculator\Calculator\obj\Debug\View\MainPage.g.i.cs
+F:\bajinsheng\Documents\Visual Studio 2013\Projects\Calculator\Calculator\obj\Debug\View\MainPage.g.cs
+F:\bajinsheng\Documents\Visual Studio 2013\Projects\Calculator\Calculator\obj\Debug\XamlTypeInfo.g.cs
+F:\bajinsheng\Documents\Visual Studio 2013\Projects\Calculator\Calculator\obj\Debug\App.xaml
+F:\bajinsheng\Documents\Visual Studio 2013\Projects\Calculator\Calculator\obj\Debug\View\MainPage.xaml
+F:\bajinsheng\Documents\Visual Studio 2013\Projects\Calculator\Calculator\obj\Debug\App.xbf
+F:\bajinsheng\Documents\Visual Studio 2013\Projects\Calculator\Calculator\obj\Debug\View\MainPage.xbf
+F:\bajinsheng\Documents\Visual Studio 2013\Projects\Calculator\Calculator\obj\Debug\XamlSaveStateFile.xml
+F:\bajinsheng\Documents\Visual Studio 2013\Projects\Calculator\Calculator\obj\Debug\Calculator.exe
+F:\bajinsheng\Documents\Visual Studio 2013\Projects\Calculator\Calculator\obj\Debug\Calculator.pdb
+F:\bajinsheng\Documents\Visual Studio 2013\Projects\Calculator\Calculator\obj\Debug\priconfig.xml
+F:\bajinsheng\Documents\Visual Studio 2013\Projects\Calculator\Calculator\obj\Debug\priconfig.xml.intermediate
+F:\bajinsheng\Documents\Visual Studio 2013\Projects\Calculator\Calculator\obj\Debug\layout.resfiles
+F:\bajinsheng\Documents\Visual Studio 2013\Projects\Calculator\Calculator\obj\Debug\layout.resfiles.intermediate
+F:\bajinsheng\Documents\Visual Studio 2013\Projects\Calculator\Calculator\obj\Debug\resources.resfiles
+F:\bajinsheng\Documents\Visual Studio 2013\Projects\Calculator\Calculator\obj\Debug\resources.resfiles.intermediate
+F:\bajinsheng\Documents\Visual Studio 2013\Projects\Calculator\Calculator\obj\Debug\pri.resfiles
+F:\bajinsheng\Documents\Visual Studio 2013\Projects\Calculator\Calculator\obj\Debug\pri.resfiles.intermediate
+F:\bajinsheng\Documents\Visual Studio 2013\Projects\Calculator\Calculator\obj\Debug\qualifiers.txt
+F:\bajinsheng\Documents\Visual Studio 2013\Projects\Calculator\Calculator\obj\Debug\qualifiers.txt.intermediate
+F:\bajinsheng\Documents\Visual Studio 2013\Projects\Calculator\Calculator\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+F:\bajinsheng\Documents\Visual Studio 2013\Projects\Calculator\Calculator\obj\Debug\ProjectArchitectures.txt
